@@ -24,7 +24,7 @@ public class DeepDive05Recursion
   @Test
   public void changeThePointerToAHand() throws Exception
   {
-    Tortoise.getBackgroundWindow().___();
+    Tortoise.getBackgroundWindow().();
     Assert.assertEquals(getCursor(), Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
   }
   @Test

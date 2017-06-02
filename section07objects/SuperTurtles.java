@@ -18,6 +18,7 @@ public class SuperTurtles
     //  makeSpeedyTurtle (recipe below) --#2.0
     //  ------------- Recipe for makeSpeedyTurtle --#1.0
     //        Create a new speedyTurtle instance  
+    Turtle speedyTurtle = ne
     //        Add your speedyTurtle to your MultiTurtleWindow
     //        Set the speed of your speedyTurtle to the fastest possible    
     //        Have your speedyTurtle draw a triangle with 100 pixel sides
